@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/csesiddiqul) 
 
 Welcome to my GitHub profile. I am a Full Stack Developer and Web Designer. <br>
-Knock me:https://www.facebook.com/csesiddiqul
+Knock me: https://www.facebook.com/csesiddiqul
 
 Skills: PYTHON/ PHP/ BOOTSTRAP/ JS / HTML / CSS
  
