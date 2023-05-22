@@ -17,11 +17,11 @@ Skills: PYTHON/ PHP/ BOOTSTRAP/ JS / HTML / CSS
 - 🌱 I’m currently learning **JS, Python, React**
 
 - 👨‍💻 All of my projects link are available heare: 
-- link->https://www.blcf.sg/
-- link->http://www.ems.ipsitacomputersltd.com/login
-- link->https://gaanjanala.com/
-- link->https://www.minimaxhealthcare.org/
-- https://www.surovi.org/
+- link->https://www.blcf.sg/ (student management system , account management system)
+- link->http://www.ems.ipsitacomputersltd.com/login (employee management system)
+- link->https://gaanjanala.com/ (music website)
+- link->https://www.minimaxhealthcare.org/ (health website)
+- link->https://www.surovi.org/ (ngo website)
 - [https://github.com/csesiddiqul](https://github.com/csesiddiqul)
 - 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UCMUi_lk3wlDQavLmJBipp5w)
